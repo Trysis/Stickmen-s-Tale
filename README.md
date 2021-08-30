@@ -6,4 +6,4 @@ Chaque joueur devra lors d'une partie, s'acheter ses unités et les poser sur le
 
 Chaque unités possède des compétences (jusqu'à 3 compétences possibles), et une attaque de base qui selon les unités peut appliquer des effets.
 
-Pour gagner la partie, il faut que l'un des joueurs n'est plus d'unité sur le terrain.
+Pour gagner la partie, il faut tuer toutes les unités adverses.
