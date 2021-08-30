@@ -1,5 +1,5 @@
 # stick
-Projet entamé lors de l'année 2020/2021
+Projet entamé lors de l'année 2020/2021 (fait avec 3 autres camarades)
 
 C'est un jeu en tour par tour, se jouant en local à 2 joueurs au max.
 Chaque joueur devra lors d'une partie, s'acheter ses unités et les poser sur le terrain.
