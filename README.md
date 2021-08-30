@@ -8,4 +8,4 @@ Chaque unités possède des compétences (jusqu'à 3 compétences possibles), et
 
 Pour gagner la partie, il faut tuer toutes les unités adverses.
 
-![image](https://user-images.githubusercontent.com/77929210/131332015-ef89f9ba-21b5-47a5-b6cd-932eb7f9c2fa.png)
+![image](https://user-images.githubusercontent.com/77929210/131332112-b93c8969-faaa-4577-907a-a12bc9bd7fc8.png)
