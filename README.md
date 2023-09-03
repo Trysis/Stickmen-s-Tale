@@ -2,7 +2,7 @@
 
 ### Auteurs :
 Emma SOUFIR  
-Rémi POULARD  
+![Rémi POULARD](https://github.com/R-Poulard)  
 Roude JEAN MARIE  
 
 ### Règles
