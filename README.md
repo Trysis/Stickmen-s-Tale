@@ -1,4 +1,4 @@
-## Stickmen'Tale
+## Stickmen's Tale
 
 Projet de L2 en Double Licence de Biologie et Informatique, entamé lors de l'année 2020/2021
 
